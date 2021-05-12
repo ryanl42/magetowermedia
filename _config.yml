@@ -30,7 +30,7 @@ twitter_username: magetowermedia
 github_username: magetowermedia
 
 # Build settings
-theme: jekyll-theme-midnight
+theme: jekyll-theme-minima
 plugins:
     - jekyll-feed
 # Exclude from processing.
